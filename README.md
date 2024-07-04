@@ -39,7 +39,7 @@ git config --global user.email "your.email@example.com"
 ```
 2) Clone a Repository
 ```
-  git clone <repo-url>
+  git clone repo-url
 ```
 3) Check status
 ```
