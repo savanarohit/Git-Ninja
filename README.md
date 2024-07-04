@@ -13,3 +13,15 @@ Git is a distributed version control system that tracks source code changes duri
 7) Pull: Updating your local repository with changes from a remote repository.
 8) Push: Sending your local changes to a remote repository.
 
+#### Content
+
+1) Introduction
+2) Architecture
+3) Remote Repositories
+4) Branching
+5) Merging
+6) Workflow
+7) GitHub 
+8) VSCode Plugins
+
+
