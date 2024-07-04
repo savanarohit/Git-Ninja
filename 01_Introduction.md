@@ -90,6 +90,8 @@ git config --global user.email "your.email@example.com"
 6) Merge Pull Request
 ```
   After review, merge the pull request into the main branch
+
+  git pull
 ```
 
 #### Best Practices
