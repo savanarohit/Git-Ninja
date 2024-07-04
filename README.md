@@ -15,13 +15,13 @@ Git is a distributed version control system that tracks source code changes duri
 
 #### Content
 
-1)  [Introduction](https://this_is_url/)
-2)  [Architecture](https://this_is_url/)
-3)  [Repositories](https://this_is_url/)
-4)  [Branching](https://this_is_url/)
-5)  [Merging](https://this_is_url/)
-6)  [Workflow](https://this_is_url/)
-7)  [GitHub](https://this_is_url/)
-8)  [VSCode Plugins](https://this_is_url/)
+1)  [Introduction](https://github.com/savanarohit/Git-Ninja/blob/main/01_Introduction.md)
+2)  [Architecture](https://github.com/savanarohit/Git-Ninja/blob/main/02_Architecture.md)
+3)  [Repositories](https://github.com/savanarohit/Git-Ninja/blob/main/03_Repositories.md)
+4)  [Branching](https://github.com/savanarohit/Git-Ninja/blob/main/04_Branching.md)
+5)  [Merging](https://github.com/savanarohit/Git-Ninja/blob/main/05_Merging.md)
+6)  [Workflow](https://github.com/savanarohit/Git-Ninja/blob/main/06_Workflow.md)
+7)  [GitHub](https://github.com/savanarohit/Git-Ninja/blob/main/07_Advance.md)
+8)  [Plugins](https://this_is_url/)
 
 
