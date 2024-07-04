@@ -21,7 +21,7 @@ Git is a distributed version control system that tracks source code changes duri
 4)  [Branching](https://github.com/savanarohit/Git-Ninja/blob/main/04_Branching.md)
 5)  [Merging](https://github.com/savanarohit/Git-Ninja/blob/main/05_Merging.md)
 6)  [Workflow](https://github.com/savanarohit/Git-Ninja/blob/main/06_Workflow.md)
-7)  [GitHub](https://github.com/savanarohit/Git-Ninja/blob/main/07_Advance.md)
+7)  [Advance](https://github.com/savanarohit/Git-Ninja/blob/main/07_Advance.md)
 8)  [Plugins](https://github.com/savanarohit/Git-Ninja/blob/main/08_Plugins.md)
 
 
