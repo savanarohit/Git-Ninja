@@ -28,9 +28,9 @@ git config --global user.name "Your Name" <br>
 git config --global user.email "your.email@example.com"
 ```
 ##### Check Configuration
-
+```
   git config --list
-
+```
 #### Basic Git Commands
 
 1) Initialize a Repository
