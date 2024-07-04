@@ -23,6 +23,6 @@ Linux: Use your package manager, e.g., sudo apt-get install git.
 
 ##### Configuration
 
-git config --global user.name "Your Name"
+git config --global user.name "Your Name" <br>
 git config --global user.email "your.email@example.com"
 
