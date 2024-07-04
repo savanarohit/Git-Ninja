@@ -28,84 +28,84 @@ git config --global user.email "your.email@example.com"
 
 ##### Check Configuration
 
-git config --list
+  git config --list
 
 #### Basic Git Commands
 
 1) Initialize a Repository
 
-git init
+  git init
 
 2) Clone a Repository
 
-git clone <repo-url>
+  git clone <repo-url>
 
 3) Check status
 
-git status
+  git status
 
 4) Add Files to the Staging Area
 
-git add filename        (Adds specific file)
-git add .               (Adds all changes)
+  git add filename        (Adds specific file)
+  git add .               (Adds all changes)
 
 5) Commit Changes
 
-git commit -m "Commit message"
+  git commit -m "Commit message"
 
 6) View Commit History
 
-git log
+  git log
 
 7) Create a New Branch
 
-git branch mynewbranch
+  git branch mynewbranch
 
 8) Swithc branches
 
-git checkout mybranch
+  git checkout mybranch
 
 9) Merge Branches
 
-git checkout main
-git merge mybranch
+  git checkout main
+  git merge mybranch
 
 10) Push Changes to Remote
 
-git push origin mybranch
+  git push origin mybranch
 
 11) Pull Changes from the Remote
 
-git pull origin mybranch
+  git pull origin mybranch
 
 #### Git Common Workflow
 
 1) Clone Repository
 
-git clone <repo-url>
+  git clone <repo-url>
 
 2) Create and Switch to a New Branch
 
-git checkout -b feature-branch
+  git checkout -b feature-branch
 
 3) Work on Your Code
 
-git add .
-git commit -m "Update README.md file"
+  git add .
+  git commit -m "Update README.md file"
 
 4) Push Changes to Remote
 
-git push origin feature-branch
+  git push origin feature-branch
 
 5) Create a Pull Request on Github
 
-Go to your repository on Github
-Create a new pull request from your feature branch to the main branch
-Describe your changes and request a review
+  Go to your repository on Github
+  Create a new pull request from your feature branch to the main branch
+  Describe your changes and request a review
 
 6) Merge Pull Request
 
-After review, merge the pull request into the main branch
+  After review, merge the pull request into the main branch
 
 
 
