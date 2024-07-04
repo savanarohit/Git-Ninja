@@ -62,7 +62,7 @@ git config --global user.email "your.email@example.com"
 ```
   git branch mynewbranch
 ```
-8) Swithc branches
+8) Switch branches
 ```
   git checkout mybranch
 ```
