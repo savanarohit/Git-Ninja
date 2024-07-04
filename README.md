@@ -17,9 +17,11 @@ Push: Sending your local changes to a remote repository.
 
 ##### Installation
 
+’’’
 Windows: Download and install from git-scm.com.
 Mac: Use Homebrew: brew installs git.
 Linux: Use your package manager, e.g., sudo apt-get install git.
+’’’
 
 ##### Configuration
 
