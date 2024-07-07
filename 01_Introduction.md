@@ -37,13 +37,12 @@ If Researcher A mistakenly deletes a crucial section, the team can easily restor
 Finalizing the Paper:
 The team reviews the final version and agrees on the content. The version control system provides a clear history of changes, showing how the document reached its final form.
 
-Key Benefits:
+#### Key Benefits:
+
 Collaboration: Allows multiple contributors to work on the same project without overwriting each other’s work.
 History Tracking: Records every change, providing a detailed log of the project’s development and enabling easy rollback if needed.
 Conflict Resolution: Facilitates merging of changes from different contributors and helps resolve conflicts systematically.
 Backup: Keeps older versions of files secure, acting as a safety net against mistakes or data loss.
-
-
 
 
 #### Setting Up Git
