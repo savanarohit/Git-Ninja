@@ -8,7 +8,7 @@ Git is a distributed version control system that tracks source code changes duri
 4) Integration with Software Tools like Jira
 
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 #### Lessons
 
