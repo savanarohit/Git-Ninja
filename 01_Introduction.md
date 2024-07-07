@@ -6,28 +6,28 @@ Version control is a system that helps manage and record changes to files over t
 
 Consider a team of four researchers working together on a scientific paper. Here's how version control could streamline their workflow:
 
-1) Initial Setup:
+Initial Setup:
 
 Each researcher creates their own copy of the project files from a shared repository, essentially duplicating the current version of the paper for their individual use.
 
-2) Making Changes:
+Making Changes:
 
   Researcher A drafts the introduction.
   Researcher B works on the methodology section.
   Researcher C focuses on adding results and discussion.
   Researcher D reviews the document and proposes changes.
 
-3) Committing Changes:
+Committing Changes:
 
 Each researcher commits their changes to the version control system, which saves a snapshot of their edits along with a brief description of what was altered.
 
-4) Review and Merge:
+Review and Merge:
 
   Researcher D examines the changes made by A, B, and C.
   A conflict is identified because both A and C made changes to the same paragraph.
   Researcher D resolves the conflict by integrating the relevant edits from both researchers.
 
-5) Creating a History:
+Creating a History:
 
 The version control system logs each change, including details of who made the change and when it was made. This creates a timeline of the document’s evolution, which can be referenced to track progress or revert to earlier versions if necessary.
 
