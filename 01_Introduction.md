@@ -2,6 +2,17 @@
 
 Version control is a system that helps manage and record changes to files over time. It’s a crucial tool for projects involving multiple contributors, as it maintains a comprehensive history of all modifications, which is particularly beneficial in fields like software development.
 
+#### Key Concepts
+
+1) Repository (Repo): A storage location for your project, where Git stores the project history and configuration.
+2) Commit: A snapshot of your project at a specific point in time.
+3) Branch: A parallel version of your project, allowing you to work on different features or fixes simultaneously.
+4) Merge: Combining changes from different branches into one.
+5) Remote: A version of your project hosted on the internet or network.
+6) Clone: A copy of a remote repository on your local machine.
+7) Pull: Updating your local repository with changes from a remote repository.
+8) Push: Sending your local changes to a remote repository.
+
 #### Real-World Example: Writing a Collaborative Research Paper
 
 Consider a team of four researchers working together on a scientific paper. Here's how version control could streamline their workflow:
