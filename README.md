@@ -13,7 +13,7 @@ Git is a distributed version control system that tracks source code changes duri
 7) Pull: Updating your local repository with changes from a remote repository.
 8) Push: Sending your local changes to a remote repository.
 
-#### Content
+#### Lessons
 
 1)  [Introduction](https://github.com/savanarohit/Git-Ninja/blob/main/01_Introduction.md)
 2)  [Architecture](https://github.com/savanarohit/Git-Ninja/blob/main/02_Architecture.md)
