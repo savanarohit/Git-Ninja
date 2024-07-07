@@ -12,10 +12,10 @@ Each researcher creates their own copy of the project files from a shared reposi
 
 2) Making Changes:
 
-Researcher A drafts the introduction.
-Researcher B works on the methodology section.
-Researcher C focuses on adding results and discussion.
-Researcher D reviews the document and proposes changes.
+  Researcher A drafts the introduction.
+  Researcher B works on the methodology section.
+  Researcher C focuses on adding results and discussion.
+  Researcher D reviews the document and proposes changes.
 
 3) Committing Changes:
 
@@ -23,19 +23,19 @@ Each researcher commits their changes to the version control system, which saves
 
 4) Review and Merge:
 
-Researcher D examines the changes made by A, B, and C.
-A conflict is identified because both A and C made changes to the same paragraph.
-Researcher D resolves the conflict by integrating the relevant edits from both researchers.
+  Researcher D examines the changes made by A, B, and C.
+  A conflict is identified because both A and C made changes to the same paragraph.
+  Researcher D resolves the conflict by integrating the relevant edits from both researchers.
 
 5) Creating a History:
 
 The version control system logs each change, including details of who made the change and when it was made. This creates a timeline of the document’s evolution, which can be referenced to track progress or revert to earlier versions if necessary.
 
-Collaborative Advantage:
-If Researcher A mistakenly deletes a crucial section, the team can easily restore it from a previous version saved by the system, preventing the loss of important information.
+  Collaborative Advantage:
+  If Researcher A mistakenly deletes a crucial section, the team can easily restore it from a previous version saved by the system, preventing the loss of important information.
 
-Finalizing the Paper:
-The team reviews the final version and agrees on the content. The version control system provides a clear history of changes, showing how the document reached its final form.
+  Finalizing the Paper:
+  The team reviews the final version and agrees on the content. The version control system provides a clear history of changes, showing how the document reached its final form.
 
 #### Key Benefits:
 
