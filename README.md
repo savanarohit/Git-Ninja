@@ -7,9 +7,6 @@ Git is a distributed version control system that tracks source code changes duri
 3) Distributed Version Control System
 4) Integration with Software Tools like Jira
 
-
-![Git Branch](image.png)
-
 #### Lessons
 
 1)  [Introduction](https://github.com/savanarohit/Git-Ninja/blob/main/01_Introduction.md)
