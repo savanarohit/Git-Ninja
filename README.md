@@ -2,6 +2,12 @@
 
 Git is a distributed version control system that tracks source code changes during software development. It allows multiple developers to work on a project simultaneously without interfering with each other’s work.
 
+#### Git
+
+1) Most used Version Control Tool
+2) Open Source project 
+3) Distributed Version Control System
+
 #### Lessons
 
 1)  [Introduction](https://github.com/savanarohit/Git-Ninja/blob/main/01_Introduction.md)
