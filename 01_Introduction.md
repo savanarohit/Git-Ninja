@@ -2,6 +2,10 @@
 
 Version control is a system that helps manage and record changes to files over time. It’s a crucial tool for projects involving multiple contributors, as it maintains a comprehensive history of all modifications, which is particularly beneficial in fields like software development.
 
+#### Git Infographic
+
+![alt text](image.png)
+
 #### Key Concepts
 
 1) Repository (Repo): A storage location for your project, where Git stores the project history and configuration.
