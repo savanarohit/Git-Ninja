@@ -19,7 +19,7 @@ Consider a team of four researchers working together on a scientific paper. Here
 
 Initial Setup:
 
-Each researcher creates their own copy of the project files from a shared repository, essentially duplicating the current version of the paper for their individual use.
+  Each researcher creates their own copy of the project files from a shared repository, essentially duplicating the current version of the paper for their individual use.
 
 Making Changes:
 
@@ -30,7 +30,7 @@ Making Changes:
 
 Committing Changes:
 
-Each researcher commits their changes to the version control system, which saves a snapshot of their edits along with a brief description of what was altered.
+  Each researcher commits their changes to the version control system, which saves a snapshot of their edits along with a brief description of what was altered.
 
 Review and Merge:
 
@@ -40,7 +40,7 @@ Review and Merge:
 
 Creating a History:
 
-The version control system logs each change, including details of who made the change and when it was made. This creates a timeline of the document’s evolution, which can be referenced to track progress or revert to earlier versions if necessary.
+  The version control system logs each change, including details of who made the change and when it was made. This creates a timeline of the document’s evolution, which can be referenced to track progress or revert to earlier versions if necessary.
 
   Collaborative Advantage:
   If Researcher A mistakenly deletes a crucial section, the team can easily restore it from a previous version saved by the system, preventing the loss of important information.
@@ -50,11 +50,10 @@ The version control system logs each change, including details of who made the c
 
 #### Key Benefits:
 
-Collaboration: Allows multiple contributors to work on the same project without overwriting each other’s work.
-History Tracking: Records every change, providing a detailed log of the project’s development and enabling easy rollback if needed.
-Conflict Resolution: Facilitates merging of changes from different contributors and helps resolve conflicts systematically.
-Backup: Keeps older versions of files secure, acting as a safety net against mistakes or data loss.
-
+  Collaboration: Allows multiple contributors to work on the same project without overwriting each other’s work.
+  History Tracking: Records every change, providing a detailed log of the project’s development and enabling easy rollback if needed.
+  Conflict Resolution: Facilitates merging of changes from different contributors and helps resolve conflicts systematically.
+  Backup: Keeps older versions of files secure, acting as a safety net against mistakes or data loss.
 
 #### Setting Up Git
 ```

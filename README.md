@@ -5,6 +5,7 @@ Git is a distributed version control system that tracks source code changes duri
 1) Most used Version Control System tool
 2) Open Source project 
 3) Distributed Version Control System
+4) Integration with Software Tools like Jira
 
 #### Lessons
 
