@@ -13,7 +13,7 @@ Version control is a system that helps manage and record changes to files over t
 7) Pull: Updating your local repository with changes from a remote repository.
 8) Push: Sending your local changes to a remote repository.
 
-#### Real-World Example: Writing a Collaborative Research Paper
+#### Git Real-World Example: Writing a Collaborative Research Paper
 
 Consider a team of four researchers working together on a scientific paper. Here's how version control could streamline their workflow:
 
