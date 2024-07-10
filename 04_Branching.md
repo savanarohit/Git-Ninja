@@ -6,7 +6,7 @@
 4) Forking Workflow
 
 
-##### Git Branches 
+#### Git Branches 
 
 1) Main Branch: The stable branch containing the latest release-ready code.
 2) Develop Branch: The integration branch for testing new features before merging into the main branch.
